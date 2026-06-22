@@ -1,0 +1,8 @@
+{
+  "name": "AI Software Compiler",
+  "description": "Multi-stage compiler pipeline that turns natural language into validated schemas and executes them inside a live client-side sandbox runtime with a mock server, database, and auth simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
